@@ -224,6 +224,9 @@ set @resources='
   <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.BackToAttribute">
     <Value></Value>
   </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.CustomerRoles.Fields.CustomerRole.Select">
+    <Value>Select customer role</Value>
+  </LocaleResource>
 </Language>
 '
 
